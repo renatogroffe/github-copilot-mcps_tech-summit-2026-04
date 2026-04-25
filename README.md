@@ -3,7 +3,20 @@ Conteúdos da apresentação "Como o GitHub Copilot + MCPs podem ser úteis no s
 
 Prompt file e arquivos utilizados na demonstração com o GitHub Copilot: https://github.com/renatogroffe/github-copilot-dotnet10-minimalapi-otel-grafana-docker-prompt
 
-Alguns MCPs públicos para testes:
+Alguns MCPs úteis:
+
+| Descrição | Comando / URL de Ativação | Link |
+|-----------|---------------------------|------|
+| MCP Oficial do Microsoft Learn | `https://learn.microsoft.com/api/mcp` | https://github.com/microsoftdocs/mcp |
+| MCP de geração de dados fake | `docker run -i --rm renatogroffe/dotnet10-consoleapp-mcp-fakedata` | https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata |
+| MCP Oficial do draw.io | https://mcp.draw.io/mcp | https://github.com/jgraph/drawio-mcp |
+| MCP Oficial do Excalidraw | https://mcp.excalidraw.com | https://github.com/excalidraw/excalidraw-mcp |
+| Extensão Oficial do Postgres (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql |
+| Extensão Oficial do SQL Server (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql |
+| Extensão Oficial do Mermaid (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart |
+
+
+Um arquivo mcp.json com outros MCPs públicos para testes:
 
 ```json
 {
