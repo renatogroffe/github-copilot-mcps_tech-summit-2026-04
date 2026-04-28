@@ -3,6 +3,8 @@ Conteúdos da apresentação "Como o GitHub Copilot + MCPs podem ser úteis no s
 
 Prompt file e arquivos utilizados na demonstração com o GitHub Copilot: https://github.com/renatogroffe/github-copilot-dotnet10-minimalapi-otel-grafana-docker-prompt
 
+Tecnologias utilizadas: **.NET 10, ASP.NET Core, C#, Docker, Docker Compose, Grafana, Grafana Tempo, OpenTelemetry, OpenAPI, GitHub Copilot, Visual Studio Code...**
+
 Alguns MCPs úteis:
 
 | Descrição | Comando / URL de Ativação | Link |
